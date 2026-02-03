@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">ListJDM</string>
+
+    <string name="jdm_name">Nama JDM</string>
+    <string name="description">Deskripsi</string>
+
+<!--    menu_main-->
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="Profile">About</string>
+
+    <string name="dummy_photos">1 photos</string>
+    <string name="kapasitasmesin">data_kapasitasmesin\n</string>
+    <string name="dimensi">data_dimensi\n</string>
+    <string name="bahanbakar">data_bahanbakar\n</string>
+
+    <string-array name="data_name">
+        <item>Honda Accord</item>
+        <item>Honda Civic</item>
+        <item>Honda NSX</item>
+        <item>Mazda Rx7</item>
+        <item>Mitsubishi Galant</item>
+        <item>Mitsubishi Lancer</item>
+        <item>Nissan Skyline</item>
+        <item>Nissan SX</item>
+        <item>Toyota Supra RZ</item>
+        <item>Toyota Corrola</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Pada era awal kemunculannya sekitar tahun 1994 dan 1995, Honda Accord bekas menarik perhatian sebagai kendaraan yang andal dan bertenaga. Mesin yang digunakan pada model tersebut masih mengusung warisan platform yang sama dengan generasi sebelumnya. Mesin ini memiliki kapasitas 2,2 L, berjenis SOHC, terdiri dari 4 silinder segaris, dan dilengkapi dengan 16 katup. Kode mesin untuk varian ini adalah F22A6, belum menggunakan teknologi V-TEC yang saat itu sedang berkembang. Meskipun demikian, mesin Accord mengalami peningkatan performa melalui serangkaian penyesuaian pada bagian ECU dan intake manifold. Hasilnya, mesin Accord mampu memberikan tenaga maksimal sebesar 140HP pada 5.600 RPM, dengan torsi mencapai 193 Nm pada putaran mesin 4.500 RPM. Pergantian signifikan terjadi pada tahun 1996, di mana Honda Accord mengalami evolusi yang lebih maju dengan kode sasis CD7. Mesin yang digunakan pada model ini tetap berkapasitas 2,2 L SOHC 4 silinder segaris dengan 16 katup, namun kali ini sudah dilengkapi dengan teknologi V-TEC, memiliki kode mesin F22B. Performa mesin semakin meningkat, menghasilkan daya sebesar 145 HP pada 5.500 rpm, dan torsi mencapai 199 Nm pada putaran mesin 4.500 rpm. Transformasi ini menjadikan Honda Accord sebagai pilihan yang lebih menarik dan handal di kelasnya.</item>
+        <item>Honda Civic Mugen RR, dengan keunggulan mesin K20A berkapasitas 2.000 cc dan 4 silinder, telah mengalami peningkatan tenaga yang signifikan, melonjak sebesar 15 dk menjadi 240 dk. Tidak hanya itu, performa torsinya juga mengalami peningkatan yang mencolok, mencapai 218 Nm, sementara tetap mempertahankan transmisi 6-speed manual yang responsif. Meskipun daya sebesar 240 dk mungkin tidak mencapai level tertinggi yang pernah dicapai oleh mesin 2.000 cc, namun Mugen RR menonjol dengan keunikan bahwa peranti induksi udara pada mesin Type R standar tidak dicangkokkan pada model ini. Mugen memberikan sentuhan khusus pada Civic RR, menciptakan pengalaman mengemudi yang tak hanya bertenaga tetapi juga unik dan eksklusif.</item>
+        <item>NSX ini menjadi mobil produksi massal pertama di dunia yang memiliki fitur bodi aluminium seluruhnya. Didukung oleh all-aluminium Mesin 3.0 L V6, yang menampilkan sistem VTEC Honda (Variable Valve Timing dan Lift Electronic Control) yang dikembangkan pada 1980-an, transmisi manual 5-percepatan, atau mulai tahun 1994 transmisi otomatis 4-percepatan SportShift, juga dikenal sebagai F-Matic, memungkinkan opsi pemindahan gigi otomatis konvensional atau pemindahan gigi secara manual dengan tuas pemindahan jari di kolom kemudi.</item>
+        <item>RX‑7 generasi ketiga, yang dikenal dengan kode sasis FD (FD3S untuk Jepang dan JM1FD untuk Amerika Utara), mempersembahkan desain bodi yang diperbarui dengan ciri khas yang memukau. Model ini menjadi perwakilan gemilang dari inovasi teknologi di dunia otomotif, terutama melalui kehadiran mesin 13B-REW yang revolusioner. Mesin ini adalah sistem twin-turbocharger sekuensial produksi massal pertama yang berhasil diekspor dari Jepang, menggambarkan komitmen Mazda terhadap performa tinggi dan keunggulan teknologi. Pada tahun 1992, RX-7 FD melalui pembaruan signifikan yang mengangkat tenaga mesinnya menjadi 255 PS (188 kW; 252 hp), menghadirkan pengalaman mengemudi yang lebih memukau. Seiring berjalannya waktu, Mazda terus melakukan inovasi, dan pada akhirnya, RX-7 FD mencapai puncak performanya dengan daya mencapai 280 PS (206 kW; 276 hp) ketika produksi di Jepang berakhir pada tahun 2002. Dengan desain yang memikat dan mesin yang memukau, RX-7 FD tidak hanya menjadi mobil sport klasik, tetapi juga mewakili tonggak prestasi dalam sejarah Mazda yang patut diapresiasi.</item>
+        <item>New Mitsubishi Galant 2000, yakni mobil populer yang disukai banyak orang karena keindahannya yang unik. Mobil ini dirilis dengan desain yang menarik, gril yang ramping dan spoiler yang memesona. Mitsubishi Galant 2000 tersedia dalam 7 varian,Mitsubishi Galant 2.0L 16v 5MT (136 HP),Mitsubishi Galant 2.0L GDI 4AT (145 HP),Mitsubishi Galant 2.4L 16V 4AT (145 HP),Mitsubishi Galant 2.4L GDI 5MT (150 HP),Mitsubishi Galant 2.5l V6 5MT (163 HP) dan Mitsubishi Galant 2.0L TD 5MT (90 HP), mobil ini unik, menonjol dan memang fun to drive. Mitsubishi Galant 2000 juga dilengkapi dengan perlengkapan dan keselamatan yang sangat baik, seperti lampu depan LED dan Lampu LED Daytime Running yang dapat memberikan penerangan yang jelas pada siang atau malam hari. Selain itu, mobil ini juga ada dua fog lamp depan LED yang otomatis dan lampu belakang LED, serta defroster kaca depan dan belakang.</item>
+        <item>Lancer Evolution V, yang secara resmi diluncurkan pada Januari 1998, menciptakan gebrakan yang mengguncang dunia otomotif dengan modifikasinya yang mencolok, khususnya untuk mengikuti perkembangan pesat di arena mobil reli Group A. Saat itu, FIA (Fédération Internationale de lAutomobile) memberikan kebebasan luar biasa kepada para pabrikan untuk melakukan modifikasi pada mobil mereka, menciptakan panggung yang ideal bagi Lancer Evolution V untuk bersinar. Salah satu perubahan paling mencolok terjadi pada sektor mesin, di mana inovasi mencakup penggunaan piston yang lebih ringan, nozzle turbocharger yang diperbesar, dan sejumlah modifikasi lainnya. Hasilnya? Sebuah mesin yang mampu menghasilkan torsi maksimum hingga 373 Nm pada putaran mesin 3.000 rpm, memberikan performa yang luar biasa di lintasan reli dan menjadikan Lancer Evolution V sebagai daya saing utama dalam kompetisi tersebut. Tidak hanya berfokus pada performa mesin, Lancer Evolution V juga menampilkan sejumlah perubahan desain yang mencolok, menciptakan penampilan yang agresif dan aerodinamis. Keseluruhan, Lancer Evolution V tidak hanya menjadi mobil reli yang tangguh, tetapi juga simbol keberanian Mitsubishi dalam menerapkan modifikasi yang signifikan demi keunggulan kompetitif di dunia balap reli yang penuh tantangan.</item>
+        <item>Mobil ini awalnya hanya tersedia dalam versi sedan 4-pintu pada debut publik pada Tokyo Motor Show Oktober 1968.Mobil ini diiklankan dengan mobil balap Nissan R380 untuk menampilkan DNA balap Skyline.Mobil ini memiliki mesin SOHC 2.0 L S20 menghasilkan 160 hp (120 kw) pada 7.000 rpm dan torsi sebesar 177 N.m (131 ft.lbf) pada 5.600 rpm.Kekuatan mesin dihantarkan ke roda belakang (RWD) melalui transmisi manual 5-percepatan.Skyline GT-R pertama menggunakan suspensi semi-trailing arm strut.Model kupe baru tersedia pada 1971 dengan kode sasis KGPC10.</item>
+        <item>New Nissan 200 SX 2000, yakni mobil populer yang disukai banyak orang karena keindahannya yang unik. Mobil ini dirilis dengan desain yang menarik, gril yang ramping dan spoiler yang memesona. Dan kaca spion hitam mobil ini juga menambah kesejukannya. Nissan 200 SX 2000 tersedia dalam 2 varian, dan Nissan 200 SX 2.0 Turbo 5MT (200 HP), mobil ini unik, menonjol dan memang fun to drive. Nissan 200 SX 2000 juga dilengkapi dengan perlengkapan dan keselamatan yang sangat baik, seperti lampu depan LED dan Lampu LED Daytime Running yang dapat memberikan penerangan yang jelas pada siang atau malam hari. Selain itu, mobil ini juga ada dua fog lamp depan LED yang otomatis dan lampu belakang LED, serta defroster kaca depan dan belakang.</item>
+        <item>Toyota Supra model RZ-S berkode 2JZ-GTE memiliki dimensi 4520×1810×1275 mm, sedangkan untuk interiornya yakni 1580×1480×1065 mm. Mobil ini memiliki bobot 1501 kg dengan tipe body Coupe. Adapun mesinnya memiliki turbo berkubikasi 2.997 cc EFI. Pada versi Jepang, tenaga dan torsi yang dihasilkannya mencapai 277 dk pada 5.600 rpm dan 431 Nm pada 3.600 rpm. Sedang untuk pasar Eropa dan Amerika, mobil tipe atas punya Toyota ini memiliki tenaga yang lebih besar hingga 326 dk pada 5.600 rpm dan 441 Nm pada 4.000 rpm. Tenaga dan torsi itu disalurkan ke 2 roda belakang melalui 2 pilihan transmisi, yakni manual 6-percepatan dan otomatik 4-percepatan.</item>
+        <item>Inilah Toyota Corolla Sedan 1999 terbaik. Semuanya sudah benar-benar berubah, dari sasis hingga cangkang bodi, desain interior, fitur, perlengkapan keselamatan, dan yang terpenting, transmisi telah diubah. Mesinnya tidak semuanya baru tetapi mendapatkan perbaikan mereka sendiri untuk meningkatkan driveability, efisiensi bahan bakar dan kenyamanan. Honda mengatakan tujuan untuk departemen R dan D Asia Pasifik mereka adalah membuat mobil One-class-above berdasarkan umpan balik dari pemilik model generasi sebelumnya serta calon pelanggan Toyota Corolla Sedan 1999. Desain eksterior mungkin tidak menarik bagi semua orang, desain interior, spasi dan peralatan yang ditawarkan pasti akan menarik. Padukan semua ini dengan salah satu yang terbaik paket ride-and-handling pada mobil apa pun di segmen sub-4 meter, Toyota Corolla Sedan 1999 harus berada di urutan teratas daftar Anda jika Anda ingin membelinya dalam waktu dekat.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/honda_accord</item>
+        <item>@drawable/honda_civic</item>
+        <item>@drawable/honda_nsx</item>
+        <item>@drawable/mazda_rx</item>
+        <item>@drawable/mitsubisi_galan</item>
+        <item>@drawable/mitsubisi_lancer</item>
+        <item>@drawable/nissan_skyline</item>
+        <item>@drawable/nissan_sx</item>
+        <item>@drawable/supra_rz</item>
+        <item>@drawable/toyota_corrola</item>
+    </integer-array>
+
+    <string-array name="data_kapasitasmesin">
+        <item>Honda Accord</item>
+
+    </string-array>
+
+    <string-array name="data_dimensi">
+        <item>Honda Accord</item>
+
+    </string-array>
+
+
+    <string-array name="data_bahanbakar">
+        <item>Honda Accord</item>
+
+    </string-array>
+
+
+<!-- DETAIL UNTUK HONDA ACCORD -->
+
+
+</resources>
